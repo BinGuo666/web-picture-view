@@ -1,0 +1,19 @@
+{
+  "name": "web-picture-view",
+  "version": "1.0.0",
+  "description": "图片查看组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BinGuo666/web-picture-view.git"
+  },
+  "author": "BinGuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BinGuo666/web-picture-view/issues"
+  },
+  "homepage": "https://github.com/BinGuo666/web-picture-view#readme"
+}
